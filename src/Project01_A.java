@@ -1,11 +1,8 @@
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import kr.inflearn.BookDTO;
-
-import java.awt.print.Book;
 import java.util.ArrayList;
 import java.util.List;
-
 
 public class Project01_A {
     public static void main(String[] args) {
