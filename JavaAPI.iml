@@ -13,5 +13,6 @@
     <orderEntry type="library" name="commons-codec-1.11" level="project" />
     <orderEntry type="library" name="commons-collections4-4.2" level="project" />
     <orderEntry type="library" name="poi-4.0.1" level="project" />
+    <orderEntry type="library" name="itextpdf-5.5.13" level="project" />
   </component>
 </module>
