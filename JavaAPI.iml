@@ -14,5 +14,6 @@
     <orderEntry type="library" name="commons-collections4-4.2" level="project" />
     <orderEntry type="library" name="poi-4.0.1" level="project" />
     <orderEntry type="library" name="itextpdf-5.5.13" level="project" />
+    <orderEntry type="library" name="org.eclipse.paho.client.mqttv3-1.2.5" level="project" />
   </component>
 </module>
